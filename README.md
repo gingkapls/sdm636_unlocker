@@ -9,5 +9,5 @@
 > **Note:** If `./unlock.sh` gets stuck without output for more than 30 seconds, then there is a configuration issue. Try connecting plugging the phone into a different usb port, preferably USB 2.0.
 
 #### Credits
-- (liunianliang)[liunianliang@huaqin.com] for the original script.
+- [liunianliang](liunianliang@huaqin.com) for the original script.
 
