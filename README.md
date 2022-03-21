@@ -1,4 +1,10 @@
+# Unlocking and relocking scripts for Asus Zenfone Max Pro M1 (X00T/X00TD)
+
+> I do not bear any responsibility in the catastrophic event that your device gets bricked, you run these scripts at your own risk.
+
 ## DATA WILL BE WIPED SO MAKE A BACKUP
+
+### Unlocking
 
 1. Clone this repository by running `git clone https://gingkapls/sdm636_unlock` 
 2. cd into `./sdm636_unlock/unlock`
@@ -8,6 +14,15 @@
 
 > **Note:** If `./unlock.sh` gets stuck without output for more than 30 seconds, then there is a configuration issue. Try connecting plugging the phone into a different usb port, preferably USB 2.0.
 
+### Relocking
+> **Warning:** This has not been tested thoroughly, and may brick your device, exercise caution.
+
+1. Run `./relock.sh` first.
+2. Connect the phone to the computer.
+3. If everything goes well, it should output "OK" twice. If it does not, repeat the steps again.
+4. The warning about unlocked bootloader should not appear on your next reboot.
+
 #### Credits
-- [liunianliang](liunianliang@huaqin.com) for the original script.
+- [liunianliang](mailto:liunianliang@huaqin.com) for the original scripts.
+- [BORETS24](https://telegram.me/BORETS24) for the relocking instructions.
 
