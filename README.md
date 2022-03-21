@@ -1,6 +1,6 @@
 # Unlocking and relocking scripts for Asus Zenfone Max Pro M1 (X00T/X00TD)
 
-> I do not bear any responsibility in the catastrophic event that your device gets bricked, you run these scripts at your own risk.
+> **I do not bear any responsibility in the catastrophic event that your device gets bricked, you run these scripts at your own risk.**
 
 ## DATA WILL BE WIPED SO MAKE A BACKUP
 
