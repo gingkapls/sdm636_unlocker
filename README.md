@@ -6,8 +6,8 @@
 
 ### Unlocking
 
-1. Clone this repository by running `git clone https://gingkapls/sdm636_unlock` 
-2. cd into `./sdm636_unlock/unlock`
+1. Clone this repository by running `git clone https://gingkapls/sdm636_unlocker` 
+2. cd into `./sdm636_unlocker/`
 3. Reboot your phone into fastboot mode by holding down volume up + power on at the same time or alternatively, when the device is powered off.
 4. Connect it to your computer and run `./unlock.sh`.
 5. Done (probably).
